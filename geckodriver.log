@@ -744,3 +744,850 @@ JavaScript error: https://secure.quantserve.com/quant.js, line 2: NS_ERROR_UNEXP
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1616196825930	geckodriver	INFO	Listening on 127.0.0.1:62761
+1616196828975	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-private" "-foreground" "-no-remote" "-profile" "C:\\Users\\Chris\\AppData\\Local\\Temp\\rust_mozprofileJMlBXu"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1616196831739	Marionette	INFO	Listening on port 62769
+1616196832159	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616196835371	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1616196836882	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://a.pub.network/pro-football-reference/pubfig.min.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://a.pub.network/pro-football-reference/pubfig.min.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+1616196837897	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://a.pub.network/pro-football-reference/pubfig.min.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://a.pub.network/pro-football-reference/pubfig.min.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+1616196838899	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://a.pub.network/pro-football-reference/pubfig.min.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://a.pub.network/pro-football-reference/pubfig.min.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://a.pub.network/pro-football-reference/pubfig.min.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+1616196840327	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://a.pub.network/pro-football-reference/pubfig.min.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://a.pub.network/pro-football-reference/pubfig.min.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://a.pub.network/pro-football-reference/pubfig.min.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://a.pub.network/pro-football-reference/pubfig.min.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://a.pub.network/pro-football-reference/pubfig.min.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1616196843017	Marionette	INFO	Stopped listening on port 62769
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616197016958	geckodriver	INFO	Listening on 127.0.0.1:62885
+1616197020022	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-private" "-foreground" "-no-remote" "-profile" "C:\\Users\\Chris\\AppData\\Local\\Temp\\rust_mozprofilefeYLOp"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1616197022872	Marionette	INFO	Listening on port 62893
+1616197023221	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616197026687	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: , line 0: uncaught exception: undefined
+1616197031493	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://widget.freshworks.com/widgetBase/widget.js, line 1: Error: Loading chunk 0 failed.
+(error: https://widget.freshworks.com/widgetBase/0.96c1c69b8724e56254b8.widget.js)
+JavaScript error: https://widget.freshworks.com/widgetBase/widget.js, line 1: Error: Loading chunk 0 failed.
+(error: https://widget.freshworks.com/widgetBase/0.96c1c69b8724e56254b8.widget.js)
+1616197198255	geckodriver	INFO	Listening on 127.0.0.1:63004
+1616197201294	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-private" "-foreground" "-no-remote" "-profile" "C:\\Users\\Chris\\AppData\\Local\\Temp\\rust_mozprofileBga3Kn"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1616197203962	Marionette	INFO	Listening on port 63012
+1616197204474	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616197208520	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1616197209630	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://widget.freshworks.com/widgetBase/widget.js, line 1: Error: Loading chunk 0 failed.
+(error: https://widget.freshworks.com/widgetBase/0.96c1c69b8724e56254b8.widget.js)
+JavaScript error: https://widget.freshworks.com/widgetBase/widget.js, line 1: Error: Loading chunk 0 failed.
+(error: https://widget.freshworks.com/widgetBase/0.96c1c69b8724e56254b8.widget.js)
+1616197210728	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://widget.freshworks.com/widgetBase/widget.js, line 1: Error: Loading chunk 0 failed.
+(error: https://widget.freshworks.com/widgetBase/0.96c1c69b8724e56254b8.widget.js)
+JavaScript error: https://widget.freshworks.com/widgetBase/widget.js, line 1: Error: Loading chunk 0 failed.
+(error: https://widget.freshworks.com/widgetBase/0.96c1c69b8724e56254b8.widget.js)
+JavaScript error: https://a.pub.network/pro-football-reference/pubfig.min.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+1616197256921	geckodriver	INFO	Listening on 127.0.0.1:63118
+1616197259999	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-private" "-foreground" "-no-remote" "-profile" "C:\\Users\\Chris\\AppData\\Local\\Temp\\rust_mozprofile0mykFH"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1616197262691	Marionette	INFO	Listening on port 63126
+1616197263168	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616197266750	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: uncaught exception: undefined
+1616197279069	Marionette	INFO	Stopped listening on port 63126
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616197432989	geckodriver	INFO	Listening on 127.0.0.1:63257
+1616197436071	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-private" "-foreground" "-no-remote" "-profile" "C:\\Users\\Chris\\AppData\\Local\\Temp\\rust_mozprofileKaShnJ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1616197438665	Marionette	INFO	Listening on port 63265
+1616197438738	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616197441445	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://widget.freshworks.com/widgetBase/widget.js, line 1: Error: Loading chunk 1 failed.
+(error: https://widget.freshworks.com/widgetBase/1.8bd0d39ed40ee0109589.widget.js)
+JavaScript error: https://widget.freshworks.com/widgetBase/widget.js, line 1: Error: Loading chunk 10 failed.
+(error: https://widget.freshworks.com/widgetBase/10.2e5460d4c197a23f9b8f.widget.js)
+1616197443120	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://a.pub.network/pro-football-reference/pubfig.min.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://a.pub.network/pro-football-reference/pubfig.min.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+1616197449917	Marionette	INFO	Stopped listening on port 63265
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616197540209	geckodriver	INFO	Listening on 127.0.0.1:63388
+1616197543275	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-private" "-foreground" "-no-remote" "-profile" "C:\\Users\\Chris\\AppData\\Local\\Temp\\rust_mozprofileGpBIO0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1616197545925	Marionette	INFO	Listening on port 63396
+1616197545980	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616197549887	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1616198650805	geckodriver	INFO	Listening on 127.0.0.1:63708
+1616198653892	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-private" "-foreground" "-no-remote" "-profile" "C:\\Users\\Chris\\AppData\\Local\\Temp\\rust_mozprofilen9lRRp"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1616198656322	Marionette	INFO	Listening on port 63716
+1616198656569	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616198661539	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1616198683582	Marionette	INFO	Stopped listening on port 63716
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-private" "-foreground" "-no-remote" "-profile" "C:\\Users\\Chris\\AppData\\Local\\Temp\\rust_mozprofileTWO9EM"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1616198681447	Marionette	INFO	Listening on port 63839
+1616198681845	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616198685656	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: , line 0: uncaught exception: undefined
+1616198774082	Marionette	INFO	Stopped listening on port 63839
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-private" "-foreground" "-no-remote" "-profile" "C:\\Users\\Chris\\AppData\\Local\\Temp\\rust_mozprofilefvUVzG"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1616198774232	Marionette	INFO	Listening on port 63975
+1616198774320	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616198778993	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1616198792305	Marionette	INFO	Stopped listening on port 63975
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616198865934	geckodriver	INFO	Listening on 127.0.0.1:64096
+1616198868992	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-private" "-foreground" "-no-remote" "-profile" "C:\\Users\\Chris\\AppData\\Local\\Temp\\rust_mozprofileoRHVtV"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1616198871529	Marionette	INFO	Listening on port 64104
+1616198871656	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1616198875420	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1616199346872	geckodriver	INFO	Listening on 127.0.0.1:64238
+1616199349940	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-private" "-foreground" "-no-remote" "-profile" "C:\\Users\\Chris\\AppData\\Local\\Temp\\rust_mozprofileer4EbK"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1616199352350	Marionette	INFO	Listening on port 64246
+1616199352640	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616199356791	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1616199387184	Marionette	INFO	Stopped listening on port 64246
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-private" "-foreground" "-no-remote" "-profile" "C:\\Users\\Chris\\AppData\\Local\\Temp\\rust_mozprofileplQpq4"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1616199389661	Marionette	INFO	Listening on port 64359
+1616199389701	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616199401881	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1616199469546	Marionette	INFO	Stopped listening on port 64359
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616199605741	geckodriver	INFO	Listening on 127.0.0.1:64536
+1616199608761	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-private" "-foreground" "-no-remote" "-profile" "C:\\Users\\Chris\\AppData\\Local\\Temp\\rust_mozprofile2ptwza"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1616199611305	Marionette	INFO	Listening on port 64544
+1616199611432	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616199614553	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1616199620236	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1616199627096	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: uncaught exception: undefined
+1616199629988	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1616199635366	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1616199641060	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1616199649356	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1616199657243	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1616199672356	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1616199677771	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1616199693335	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: uncaught exception: undefined
+1616199696104	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: uncaught exception: undefined
+1616199753898	Marionette	INFO	Stopped listening on port 64544
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-private" "-foreground" "-no-remote" "-profile" "C:\\Users\\Chris\\AppData\\Local\\Temp\\rust_mozprofile3xoS0X"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1616199756512	Marionette	INFO	Listening on port 64669
+1616199756656	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://a.pub.network/pro-football-reference/pubfig.min.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1616200007664	Marionette	INFO	Stopped listening on port 64669
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-private" "-foreground" "-no-remote" "-profile" "C:\\Users\\Chris\\AppData\\Local\\Temp\\rust_mozprofileH2T20S"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1616199888630	Marionette	INFO	Listening on port 64801
+1616199888733	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://a.pub.network/pro-football-reference/pubfig.min.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1616200009326	Marionette	INFO	Stopped listening on port 64801
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616200076967	geckodriver	INFO	Listening on 127.0.0.1:64985
+1616200080017	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-private" "-foreground" "-no-remote" "-profile" "C:\\Users\\Chris\\AppData\\Local\\Temp\\rust_mozprofileRGZlcf"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1616200083578	Marionette	INFO	Listening on port 64993
+1616200083770	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://widget.freshworks.com/widgetBase/widget.js, line 1: Error: Loading chunk 0 failed.
+(error: https://widget.freshworks.com/widgetBase/0.96c1c69b8724e56254b8.widget.js)
+JavaScript error: https://widget.freshworks.com/widgetBase/widget.js, line 1: Error: Loading chunk 0 failed.
+(error: https://widget.freshworks.com/widgetBase/0.96c1c69b8724e56254b8.widget.js)
+1616200087567	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1616201315839	Marionette	INFO	Stopped listening on port 64993
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-private" "-foreground" "-no-remote" "-profile" "C:\\Users\\Chris\\AppData\\Local\\Temp\\rust_mozprofilerI7cTw"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1616200528105	Marionette	INFO	Listening on port 65341
+1616200528514	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616200533223	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1616201317576	Marionette	INFO	Stopped listening on port 65341
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-private" "-foreground" "-no-remote" "-profile" "C:\\Users\\Chris\\AppData\\Local\\Temp\\rust_mozprofileDWBrHp"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1616201315852	Marionette	INFO	Listening on port 49174
+1616201315902	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://ib.3lift.com/rev/44f872897df37d10e368531b86a346801fe4d793/dist/bundle.js, line 1: Error: CMP getTCData command did not return a valid consent object
+JavaScript error: https://www.pro-football-reference.com/teams/atl/2020_roster.htm, line 1: ReferenceError: osdlfm is not defined
+1616201343464	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://www.pro-football-reference.com/teams/atl/2020_roster.htm, line 15: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.pro-football-reference.com/teams/atl/2020_roster.htm, line 29: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.pro-football-reference.com/teams/atl/2020_roster.htm, line 29: ReferenceError: osdlfm is not defined
+1616201360357	geckodriver	INFO	Listening on 127.0.0.1:49641
+1616201363447	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-private" "-foreground" "-no-remote" "-profile" "C:\\Users\\Chris\\AppData\\Local\\Temp\\rust_mozprofileKnZbsm"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1616201367280	Marionette	INFO	Listening on port 49649
+1616201367635	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://widget.freshworks.com/widgetBase/widget.js, line 1: Error: Loading chunk 1 failed.
+(error: https://widget.freshworks.com/widgetBase/1.8bd0d39ed40ee0109589.widget.js)
+JavaScript error: https://widget.freshworks.com/widgetBase/widget.js, line 1: Error: Loading chunk 16 failed.
+(error: https://widget.freshworks.com/widgetBase/16.7514a03efa63da04b832.widget.js)
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1616201407231	geckodriver	INFO	Listening on 127.0.0.1:49774
+1616201410273	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-private" "-foreground" "-no-remote" "-profile" "C:\\Users\\Chris\\AppData\\Local\\Temp\\rust_mozprofile4Ti3Np"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1616201413799	Marionette	INFO	Listening on port 49798
+1616201413969	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.pro-football-reference.com/teams/atl/2020_roster.htm line 1 > injectedScript, line 15: ReferenceError: buildAttribution is not defined
+1616201483754	geckodriver	INFO	Listening on 127.0.0.1:50242
+1616201486823	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-private" "-foreground" "-no-remote" "-profile" "C:\\Users\\Chris\\AppData\\Local\\Temp\\rust_mozprofileAyHKz3"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1616201490177	Marionette	INFO	Listening on port 50250
+1616201490489	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1616201573007	geckodriver	INFO	Listening on 127.0.0.1:50661
+1616201576065	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-private" "-foreground" "-no-remote" "-profile" "C:\\Users\\Chris\\AppData\\Local\\Temp\\rust_mozprofile0j9sma"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1616201579664	Marionette	INFO	Listening on port 50669
+1616201579796	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616201584677	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1616201625445	Marionette	INFO	Stopped listening on port 50669
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616201641204	geckodriver	INFO	Listening on 127.0.0.1:50777
+1616201644256	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-private" "-foreground" "-no-remote" "-profile" "C:\\Users\\Chris\\AppData\\Local\\Temp\\rust_mozprofilesbu71u"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1616201647808	Marionette	INFO	Listening on port 50785
+1616201647953	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1616201678172	Marionette	INFO	Stopped listening on port 50785
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616201716564	geckodriver	INFO	Listening on 127.0.0.1:51227
+1616201719589	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-private" "-foreground" "-no-remote" "-profile" "C:\\Users\\Chris\\AppData\\Local\\Temp\\rust_mozprofile79GzEt"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1616201723129	Marionette	INFO	Listening on port 51235
+1616201723273	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616201728179	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: , line 0: uncaught exception: undefined
+1616201767245	geckodriver	INFO	Listening on 127.0.0.1:51347
+1616201770289	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-private" "-foreground" "-no-remote" "-profile" "C:\\Users\\Chris\\AppData\\Local\\Temp\\rust_mozprofileq0AeYQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1616201773935	Marionette	INFO	Listening on port 51355
+1616201773986	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1616201891660	geckodriver	INFO	Listening on 127.0.0.1:51469
+1616201894723	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-private" "-foreground" "-no-remote" "-profile" "C:\\Users\\Chris\\AppData\\Local\\Temp\\rust_mozprofileJErP3g"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1616201898368	Marionette	INFO	Listening on port 51478
+1616201898425	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616201951136	geckodriver	INFO	Listening on 127.0.0.1:51680
+1616201954205	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-private" "-foreground" "-no-remote" "-profile" "C:\\Users\\Chris\\AppData\\Local\\Temp\\rust_mozprofile71cdJa"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1616201957719	Marionette	INFO	Listening on port 51688
+1616201957913	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616201963022	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: , line 0: uncaught exception: undefined
+1616202003027	geckodriver	INFO	Listening on 127.0.0.1:51796
+1616202006089	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-private" "-foreground" "-no-remote" "-profile" "C:\\Users\\Chris\\AppData\\Local\\Temp\\rust_mozprofileGlRaag"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1616202009599	Marionette	INFO	Listening on port 51804
+1616202009788	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1616202064832	geckodriver	INFO	Listening on 127.0.0.1:51913
+1616202067884	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-private" "-foreground" "-no-remote" "-profile" "C:\\Users\\Chris\\AppData\\Local\\Temp\\rust_mozprofilezZEtW3"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1616202071364	Marionette	INFO	Listening on port 51921
+1616202071585	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616202076368	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1616202097410	geckodriver	INFO	Listening on 127.0.0.1:52023
+1616202100459	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-private" "-foreground" "-no-remote" "-profile" "C:\\Users\\Chris\\AppData\\Local\\Temp\\rust_mozprofileLk8h2m"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1616202103982	Marionette	INFO	Listening on port 52031
+1616202104172	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616202247109	geckodriver	INFO	Listening on 127.0.0.1:52294
+1616202250164	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-private" "-foreground" "-no-remote" "-profile" "C:\\Users\\Chris\\AppData\\Local\\Temp\\rust_mozprofileBbMMsu"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1616202253586	Marionette	INFO	Listening on port 52302
+1616202253868	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://a.pub.network/pro-football-reference/pubfig.min.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+1616202277112	geckodriver	INFO	Listening on 127.0.0.1:52457
+1616202280169	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-private" "-foreground" "-no-remote" "-profile" "C:\\Users\\Chris\\AppData\\Local\\Temp\\rust_mozprofileqIxyPh"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1616202283637	Marionette	INFO	Listening on port 52466
+1616202283864	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616202288193	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://a.pub.network/pro-football-reference/pubfig.min.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: , line 0: uncaught exception: undefined
+1616202493845	geckodriver	INFO	Listening on 127.0.0.1:52617
+1616202496890	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-private" "-foreground" "-no-remote" "-profile" "C:\\Users\\Chris\\AppData\\Local\\Temp\\rust_mozprofilewfdkBk"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1616202500450	Marionette	INFO	Listening on port 52625
+1616202500594	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616202505417	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: , line 0: uncaught exception: undefined
+1616202534004	geckodriver	INFO	Listening on 127.0.0.1:52735
+1616202537094	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-private" "-foreground" "-no-remote" "-profile" "C:\\Users\\Chris\\AppData\\Local\\Temp\\rust_mozprofilesH0fKx"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1616202540458	Marionette	INFO	Listening on port 52743
+1616202540786	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616202545849	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1616202577360	geckodriver	INFO	Listening on 127.0.0.1:52852
+1616202580390	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-private" "-foreground" "-no-remote" "-profile" "C:\\Users\\Chris\\AppData\\Local\\Temp\\rust_mozprofileepx6bh"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1616202583826	Marionette	INFO	Listening on port 52860
+1616202584104	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616202588963	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1616202667840	geckodriver	INFO	Listening on 127.0.0.1:52964
+1616202670886	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-private" "-foreground" "-no-remote" "-profile" "C:\\Users\\Chris\\AppData\\Local\\Temp\\rust_mozprofileoaq7aU"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1616202674334	Marionette	INFO	Listening on port 52972
+1616202674612	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616202677834	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://widget.freshworks.com/widgetBase/widget.js, line 1: Error: Loading chunk 0 failed.
+(error: https://widget.freshworks.com/widgetBase/0.96c1c69b8724e56254b8.widget.js)
+JavaScript error: https://widget.freshworks.com/widgetBase/widget.js, line 1: Error: Loading chunk 0 failed.
+(error: https://widget.freshworks.com/widgetBase/0.96c1c69b8724e56254b8.widget.js)
+1616202881414	geckodriver	INFO	Listening on 127.0.0.1:53244
+1616202884453	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-private" "-foreground" "-no-remote" "-profile" "C:\\Users\\Chris\\AppData\\Local\\Temp\\rust_mozprofileyuAk1J"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1616202888111	Marionette	INFO	Listening on port 53252
+1616202888160	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616202891501	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://widget.freshworks.com/widgetBase/widget.js, line 1: Error: Loading chunk 10 failed.
+(error: https://widget.freshworks.com/widgetBase/10.2e5460d4c197a23f9b8f.widget.js)
+JavaScript error: https://widget.freshworks.com/widgetBase/widget.js, line 1: Error: Loading chunk 8 failed.
+(error: https://widget.freshworks.com/widgetBase/8.391e72735dac0c934b81.widget.js)
+1616202892988	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1616202920478	geckodriver	INFO	Listening on 127.0.0.1:53356
+1616202923520	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-private" "-foreground" "-no-remote" "-profile" "C:\\Users\\Chris\\AppData\\Local\\Temp\\rust_mozprofileBSWpsy"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1616202926947	Marionette	INFO	Listening on port 53364
+1616202927237	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://30c230c6c6ae35d1d5cdce0aab453195.safeframe.googlesyndication.com/safeframe/1-0-37/html/container.html line 8 > injectedScript, line 9: ReferenceError: buildAttribution is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1616203280322	Marionette	INFO	Stopped listening on port 53364
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-private" "-foreground" "-no-remote" "-profile" "C:\\Users\\Chris\\AppData\\Local\\Temp\\rust_mozprofileHpyEF1"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1616203172701	Marionette	INFO	Listening on port 53874
+1616203172783	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616203177298	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1616203328764	Marionette	INFO	Stopped listening on port 53874
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616203398274	geckodriver	INFO	Listening on 127.0.0.1:54002
+1616203401311	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-private" "-foreground" "-no-remote" "-profile" "C:\\Users\\Chris\\AppData\\Local\\Temp\\rust_mozprofilejcLyxs"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1616203405028	Marionette	INFO	Listening on port 54010
+1616203405513	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616203409688	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1616203719300	Marionette	INFO	Stopped listening on port 54010
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-private" "-foreground" "-no-remote" "-profile" "C:\\Users\\Chris\\AppData\\Local\\Temp\\rust_mozprofileZcl9n6"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1616203639739	Marionette	INFO	Listening on port 54141
+1616203640092	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s0.2mdn.net/4331293/1610580012914/DDB_YRYS_NA_LF_SGR_Clunker%20Percent%20Text-Only%20Savings%20Test_Auto_NA_Banner_GAQ_GM_728x90/scripts/platform.js, line 28: ReferenceError: $ is not defined
+JavaScript error: https://s0.2mdn.net/4331293/1610580012914/DDB_YRYS_NA_LF_SGR_Clunker%20Percent%20Text-Only%20Savings%20Test_Auto_NA_Banner_GAQ_GM_728x90/index.html, line 38: ReferenceError: $ is not defined
+JavaScript error: https://s0.2mdn.net/4331293/1610580012914/DDB_YRYS_NA_LF_SGR_Clunker%20Percent%20Text-Only%20Savings%20Test_Auto_NA_Banner_GAQ_GM_728x90/scripts/script.js, line 3: TypeError: $ is undefined
+JavaScript error: https://s0.2mdn.net/3876771/1611673488718/script.js, line 6: TypeError: document.getElementById(...) is null
+JavaScript error: https://s0.2mdn.net/3876771/1611673456213/script.js, line 6: TypeError: document.getElementById(...) is null
+1616203832651	Marionette	INFO	Stopped listening on port 54141
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616204556543	geckodriver	INFO	Listening on 127.0.0.1:54765
+1616204559626	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-private" "-foreground" "-no-remote" "-profile" "C:\\Users\\Chris\\AppData\\Local\\Temp\\rust_mozprofileC0NjX5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1616204563046	Marionette	INFO	Listening on port 54773
+1616204563342	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ib.3lift.com/rev/44f872897df37d10e368531b86a346801fe4d793/dist/bundle.js, line 1: Error: CMP getTCData command did not return a valid consent object
+1616204572258	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=, line 1: SyntaxError: illegal character U+0001
+1616204572288	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'loading'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1616204622269	Marionette	INFO	Stopped listening on port 54773
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616204716611	geckodriver	INFO	Listening on 127.0.0.1:55176
+1616204719667	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-private" "-foreground" "-no-remote" "-profile" "C:\\Users\\Chris\\AppData\\Local\\Temp\\rust_mozprofileUkvQmV"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1616204723175	Marionette	INFO	Listening on port 55184
+1616204723366	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[Child 22304, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+1616204860207	Marionette	INFO	Stopped listening on port 55184
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616205037135	geckodriver	INFO	Listening on 127.0.0.1:55672
+1616205040174	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-private" "-foreground" "-no-remote" "-profile" "C:\\Users\\Chris\\AppData\\Local\\Temp\\rust_mozprofileLdaCmA"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1616205043775	Marionette	INFO	Listening on port 55680
+1616205043891	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616205048730	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: , line 0: uncaught exception: undefined
+1616205079116	Marionette	INFO	Stopped listening on port 55680
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-private" "-foreground" "-no-remote" "-profile" "C:\\Users\\Chris\\AppData\\Local\\Temp\\rust_mozprofilerZ7QFf"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1616205074662	Marionette	INFO	Listening on port 55799
+1616205074984	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1616205319147	Marionette	INFO	Stopped listening on port 55799
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616205542500	geckodriver	INFO	Listening on 127.0.0.1:56250
+1616205545577	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-private" "-foreground" "-no-remote" "-profile" "C:\\Users\\Chris\\AppData\\Local\\Temp\\rust_mozprofilegL7q1r"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1616205549076	Marionette	INFO	Listening on port 56258
+1616205549263	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1616205729579	Marionette	INFO	Stopped listening on port 56258
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616206263898	geckodriver	INFO	Listening on 127.0.0.1:56452
+1616206266943	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-private" "-foreground" "-no-remote" "-profile" "C:\\Users\\Chris\\AppData\\Local\\Temp\\rust_mozprofiled1BbL1"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1616206270530	Marionette	INFO	Listening on port 56460
+1616206270659	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+1616206277311	Marionette	INFO	Stopped listening on port 56460
+JavaScript error: , line 0: uncaught exception: undefined
