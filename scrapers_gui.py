@@ -1,7 +1,8 @@
 from tkinter import *
 import nfl_scraper
 import mlb_scraper
-import nba_scraper
+from scrapy.crawler import CrawlerProcess
+from nba_scraper.nba_scraper.spiders.nba_scraper import NbaScraper
 
 root = Tk()
 
@@ -21,13 +22,18 @@ button_frame = Frame(root, bg='gray')
 button_frame.place(relwidth=0.9, relheight=0.9, relx=0.05, rely=0.05)
 
 scraper_names = ['NFL', 'MLB', 'NBA']
-scraper_files = [nfl_scraper.run, mlb_scraper.run, nba_scraper.run]
+scraper_files = [nfl_scraper.run, mlb_scraper.run, NbaScraper]
 
 
 def find_file(scraper_name):
-  file_id = scraper_names.index(scraper_name)
-  file = scraper_files[file_id]
-  file()
+  if scraper_name == 'NBA':
+    process = CrawlerProcess()
+    process.crawl(NbaScraper)
+    process.start()
+  else:
+    file_id = scraper_names.index(scraper_name)
+    file = scraper_files[file_id]
+    file()
 
 
 for name in scraper_names:

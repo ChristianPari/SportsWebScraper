@@ -97,6 +97,3 @@ def run():
       data_frame = data_frame.append(player_object, ignore_index=True)
 
     data_frame.to_csv('/Users/Chris/Documents/csv-files/mlb/' + team_abrv + '.csv')
-
-
-run()
