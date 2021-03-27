@@ -8,7 +8,7 @@ def run():
   path = 'C:/Users/Chris/AppData/Local/Programs/Python/Python39/geckodriver'
   firefox_options = Options()
   firefox_options.add_argument("-private")
-  firefox_options.headless = True
+  # firefox_options.headless = True
   browser = webdriver.Firefox(executable_path=path, options=firefox_options)
   url = 'https://www.pro-football-reference.com/'
   local_data = {}
@@ -67,7 +67,6 @@ def run():
         player_data.insert(1, filtered_name)
         player_object['Name'] = filtered_name
 
-        position = ''
         if data[2].text == '':
           player_link = data[0].find_element_by_tag_name('a').get_property('href')
           player_browser = webdriver.Firefox(executable_path=path, options=firefox_options)
