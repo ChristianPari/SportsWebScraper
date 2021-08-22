@@ -1,2 +1,2 @@
 # SportsWebScraper
-I plan to create web scrapers for multiple sports using Selenium and store them all within this repository
+The goal of this project was to familiarize myself with the multiple different options of frameworks and libraries available for web scraping. So I created 3 scrapers for NFL, MLB and NBA data using [Selenium](https://www.selenium.dev/), [Scrapy](https://scrapy.org/), and [BeautifulSoup4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/). All three of these scrapers go out and find specific data from a [sports site](http://sports-reference.com) and writes to a csv file for each specific team.
