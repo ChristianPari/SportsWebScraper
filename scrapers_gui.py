@@ -6,6 +6,7 @@ from nba_scraper.nba_scraper.spiders.nba_scraper import NbaScraper
 
 root = Tk()
 
+
 def center_window(w=300, h=200):
   # get screen width and height
   ws = root.winfo_screenwidth()
@@ -14,6 +15,7 @@ def center_window(w=300, h=200):
   x = (ws / 2) - (w / 2)
   y = (hs / 2) - (h / 2)
   root.geometry('%dx%d+%d+%d' % (w, h, x, y))
+
 
 center_window(300, 140)
 root.title('Sports Scrapers GUI')
