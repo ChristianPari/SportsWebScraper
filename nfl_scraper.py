@@ -94,6 +94,3 @@ def run():
       connection.commit()
       print('committed a row')
     print('finished team ' + team_abrv)
-
-
-run()

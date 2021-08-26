@@ -115,6 +115,3 @@ def run():
       cursor.execute(sql, tuple(row))
       connection.commit()
     print('finished team ' + team_abrv)
-
-
-run()
