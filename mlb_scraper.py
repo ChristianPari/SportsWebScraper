@@ -104,8 +104,8 @@ def run():
 
     connection = pymysql.connect(
       host='localhost',
-      user='root',
-      password='1031GOD0623!',
+      user='',
+      password='',
       db='sports'
     )
     cursor = connection.cursor()
