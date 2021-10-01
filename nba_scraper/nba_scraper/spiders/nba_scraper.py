@@ -60,8 +60,8 @@ def write_to_db(file_name):
   conn = MySql.connect(
     host='localhost',
     database='sports',
-    user='root',
-    password='1031GOD0623!'
+    user='',
+    password=''
   )
   cursor = conn.cursor()
   file = open(file_name)
