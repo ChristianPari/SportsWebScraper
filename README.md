@@ -1,12 +1,10 @@
 # SportsWebScraper
 
-The goal of this project was to familiarize myself with the multiple different options of frameworks and libraries
-available for web scraping. So I created 3 scrapers for NFL, MLB and NBA which retrieve their data from
-a [sports site](http://sports-reference.com) and writes to a csv file for each specific team.
+The goal of this project was to enhance my skils of web scraping by opening myself up to unfamiliar frameworks and libraries. Which I choose to create 3 scrapers for the major professional sport leagues data (NFL, MLB and NBA) which retrieve their teams and players from a [sports site](http://sports-reference.com) and writes to a csv file for each league and specific team.
 
 ### Added Feature
 
-After I completed this task I create a MySQL database and learned how to send the scrape data directly to the database
+After I completed this task I created a MySQL database that is hosted on AWS and insert the scraped data into to the database
 for the NFL and MLB scrapers, then with the NBA scraper I used CSV reader to read the files that the program generated
 for each team and insert the row data into the database.
 
